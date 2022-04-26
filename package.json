@@ -4,7 +4,7 @@
   "description": "Project #1",
   "main": "index.js",
   "bin": {
-    "code": "brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/Dadidam/frontend-project-lvl1/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/Dadidam/frontend-project-lvl1#readme"
 }
